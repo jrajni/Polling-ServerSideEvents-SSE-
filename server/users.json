@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rajni Jain",
+      "email": "rajni@example.com",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Aarav Sharma",
+      "email": "aarav@example.com",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Priya Verma",
+      "email": "priya@example.com",
+      "status": "inactive"
+    },
+    {
+      "id": 4,
+      "name": "Rahul Mehta",
+      "email": "rahul@example.com",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "name": "Neha Kapoor",
+      "email": "neha@example.com",
+      "status": "inactive"
+    },
+    {
+      "id": "19628da4-b540-4750-ac4f-6652b52bf437",
+      "name": "test",
+      "email": "test@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "278b02bc-43b1-435f-b8b0-4bacd512ba7c",
+      "name": "ui",
+      "email": "ui@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "424636ac-0e7d-49e1-bb8c-3e463eb9353b",
+      "name": "newone",
+      "email": "oneone@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "bb45b32d-03e4-407c-8ce5-d7202830d141",
+      "name": "fdvfd",
+      "email": "vfvdf@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "d8544ca8-de10-4a86-8c11-912554baad74",
+      "name": "random",
+      "email": "randome@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "d1992af2-e35a-4bb1-8b5b-6297fb531a9f",
+      "name": "new",
+      "email": "new@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "7bb386ca-fb91-4bb8-bc15-f75e4a04e432",
+      "name": "polling",
+      "email": "polling@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "b9b97108-2305-46e2-91d6-a0f90b213d24",
+      "name": "cdd",
+      "email": "32@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "99ed93b4-58d5-473e-98f9-5a0a2d975511",
+      "name": "fgrtgtr",
+      "email": "fref@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "74f95986-bb77-4817-8b12-d3aa150d0147",
+      "name": "fcff",
+      "email": "fdv@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "187b1df5-9434-41f2-aeb4-ef798b666850",
+      "name": "aaaa",
+      "email": "aaa@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "f6de2fc1-a57f-4a4b-92ca-82e03ef31e30",
+      "name": "test",
+      "email": "test@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "36af72e2-b9c3-4bea-9f03-214fb97b346e",
+      "name": "newone",
+      "email": "newone@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "927b3e6a-82d0-4440-a698-c196f2377149",
+      "name": "working",
+      "email": "working@gmail.com",
+      "status": "active"
+    }
+  ]
+}
